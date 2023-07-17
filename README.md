@@ -17,5 +17,33 @@ Create a new data class named `Record`.
 4. Step 4: Test the PyChain Ledger by Storing Records
 - Test your complete `PyChain` ledger.
 
-5. Test results
-   
+## Test results
+1. Screenshot of the Streamlit application page detailing blockchain that consists of multiple blocks.
+
+2. Screenshot of the Streamlit application page indicating the validity of the blockchain.
+
+## Technologies
+
+The technologies used are:
+1. Blockchain 
+2. Streamlit
+3. Githib
+4. Git
+5. dataclasses
+6. hashlib
+7. Python typing
+
+---
+
+## Usage
+To run:
+1. Open a terminal and navigate to the project folder where you've coded the
+2. In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
+3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to store several blocks in the ledger.
+4. Test the blockchain validation process by using the web interface button 'Validate Chain'
+
+---
+
+## License
+
+MIT
