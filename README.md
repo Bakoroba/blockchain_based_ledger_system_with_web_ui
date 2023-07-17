@@ -19,8 +19,13 @@ Create a new data class named `Record`.
 
 ## Test results
 1. Screenshot of the Streamlit application page detailing blockchain that consists of multiple blocks.
+![image](https://github.com/Bakoroba/blockchain_based_ledger_system_with_web_ui/assets/7796158/4e6c1f47-780a-4896-bf37-4ade84b33fe8)
+
+
+![image](https://github.com/Bakoroba/blockchain_based_ledger_system_with_web_ui/assets/7796158/3fdf847b-75ff-4fbe-9478-b6bf982399dd)
 
 2. Screenshot of the Streamlit application page indicating the validity of the blockchain.
+![image](https://github.com/Bakoroba/blockchain_based_ledger_system_with_web_ui/assets/7796158/bd64a962-9ed1-43b4-bbec-b1e55a95daba)
 
 ## Technologies
 
