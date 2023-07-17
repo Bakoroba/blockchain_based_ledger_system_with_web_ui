@@ -42,6 +42,9 @@ To run:
 3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to store several blocks in the ledger.
 4. Test the blockchain validation process by using the web interface button 'Validate Chain'
 
+![image](https://github.com/Bakoroba/blockchain_based_ledger_system_with_web_ui/assets/7796158/a4619499-a01f-4073-8c30-1dade11dfa32)
+
+
 ---
 
 ## License
